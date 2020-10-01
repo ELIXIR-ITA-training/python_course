@@ -1,4 +1,4 @@
-# Python for life science
+# Python for life
 
  <table style="width:100%">
   <tr>
